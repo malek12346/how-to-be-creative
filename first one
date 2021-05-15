@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="malek.css">
+	<title>how to be creative</title>
+</head>
+<body>
+	
+	<div id="navbar" class="center">
+	<a href="how to be creative.html"> how to be creative </a>
+	<a href="how to make a vd.html"> how to make a vd </a>
+	<a href="how a site web.html"> how to creat a site web   </a>
+	<a href="how to creat memes.html"> how to creat memes </a>
+</div>
+<P align = "center"> <font size ="5" 
+color="#750"> how to be creative</font>
+</P> <br> <hr><br>
+<samp>hello every one today i write this artical to show how you can be creative how you can be so more helper without just go out all you need is your pc or phone to do something so special something that helps you to be more creative</samp><div></div>
+<img src="mon.jpg">
+<div></div>
+<br><br><br><br>
+<ul>
+	<li>first you can make a video</li>
+	<img class="ton" src="aq.png">
+	<br><br>
+	<li>second you can make a site web</li>
+	<img class="ton" src="aa.png">
+	<br><br>
+	<li>third you can make memes</li>
+	<img class="ton" src="fuck.jpg">
+	<br><br>
+    <h2>contact</h2>
+ <li class="tall">facebook:<a href="https://www.facebook.com/malek.benlazreg.10/">https://www.facebook.com/malek.benlazreg.10/</a></li>
+ <li class="tall">instagram:<a href="https://www.instagram.com/malekbenlazreg/">https://www.instagram.com/malekbenlazreg/</a></li>
+</ul>
+</body>
+</html>
